@@ -1,0 +1,10 @@
+[package]
+name = "TicTacTui"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ratatui = "0.30.2"
+crossterm = "*"
+color-eyre = "0.6.5"
+ratatui-widgets = "0.3.2"
